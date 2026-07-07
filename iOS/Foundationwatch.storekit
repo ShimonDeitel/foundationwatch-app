@@ -1,0 +1,42 @@
+{
+  "identifier": "com.apple.storekit.testing.v1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Foundationwatch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Growth-trend graph and unlimited crack tracking",
+              "displayName": "Foundationwatch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.foundationwatch.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Foundationwatch Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
